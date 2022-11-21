@@ -21,7 +21,6 @@ let pessoa4 = {
     idade = 19,
     profissao = "padeiro"
 } */
-
 enum Trabalho {
     Atriz,
     Padeiro
