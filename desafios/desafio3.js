@@ -55,6 +55,4 @@ if (botaoAtualizar) {
         somarAoSaldo(Number(soma.value));
     });
 }
-botaoLimpar.addEventListener('click', () => {
-    limparSaldo();
-});
+
